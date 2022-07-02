@@ -1,0 +1,21 @@
+ // } else if (guessValue < randomNumber) {
+  //   if (score > 1) {
+  //     message.textContent = '📈 Too low ';
+  //     score--;
+  //     scoreTxt.textContent = score;
+  //   } else {
+  //     message.textContent = '💥 You lost the game';
+  //     scoreTxt.textContent = 0;
+  //   }
+
+  //   // If guess is too high
+  // } else if (guessValue > randomNumber) {
+  //   if (score > 1) {
+  //     message.textContent = '📉 Too high ';
+  //     score--;
+  //     scoreTxt.textContent = score;
+  //   } else {
+  //     message.textContent = '💥 You lost the game';
+  //     scoreTxt.textContent = 0;
+  //   }
+  // }
